@@ -1,5 +1,7 @@
-# AliceVision Meshroom Installer
-Inno-Installer Template to Build Meshroom Installer
+# AliceVision Meshroom: Inno Installer Template
+
+You want to distribute Meshroom in your School/Company but you need an executable and not the (by default) portable Version of Meshroom?
+Here is how you can build a Meshroom Installer from the latest release:
 
 - Install Inno-installer from: https://jrsoftware.org/isdl.php#stable
 - Download Meshroom from: https://github.com/alicevision/Meshroom/releases/tag/v2023.2.0
