@@ -1,5 +1,5 @@
 [Setup]
-AppName=Meshroom
+AppName=AliceVision Meshroom
 AppVersion=2023.2.0
 WizardStyle=modern
 ArchitecturesInstallIn64BitMode=x64
