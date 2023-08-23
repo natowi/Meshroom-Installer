@@ -14,3 +14,5 @@ Additional benefit: The resulting AliceVision Meshroom Setup will be compressed 
 Note: The resulting EXE will not be signed, so if that is required for your rollout, you need to use/buy your own signing EV Code Signing Certificate.
 Otherwise the Windows Smart Screen will show "Publisher: Unknown". On some systems, installing untrusted applications may be disabled.
 If you have a certificate, sign the installer as described here: https://jrsoftware.org/ishelp/index.php?topic=setup_signtool
+
+The installer template is provided as-is. You are responsible for the license compliant distribution of the resulting executable.
