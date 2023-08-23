@@ -8,3 +8,5 @@ Inno-Installer Template to Build Meshroom Installer
 - Inno Setup: Build -> Compile (can take some time. Set your computer to performance mode to speed up the process)
 - Inno Setup: Build -> Open Output Folder (Meshroom Folder/Output)
 - Test the Setup
+
+Additional benefit: The resulting AliceVision Meshroom Setup will be compressed from 1.7GB to ~700MB.
