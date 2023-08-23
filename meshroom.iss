@@ -26,9 +26,9 @@ Source: "meshroom_statistics.exe"; DestDir: "{app}"
 Source: "meshroom_status.exe"; DestDir: "{app}"
 Source: "meshroom_submit.exe"; DestDir: "{app}"
 Source: "python37.dll"; DestDir: "{app}"
-Source: ".\aliceVision\*"; DestDir: "{app}\aliceVision"; Flags: ignoreversion recursesubdirs
-Source: ".\lib\*"; DestDir: "{app}\lib"; Flags: ignoreversion recursesubdirs
-Source: ".\qtPlugins\*"; DestDir: "{app}\qtPlugins"; Flags: ignoreversion recursesubdirs
+Source: ".\aliceVision\*"; DestDir: "{app}\aliceVision"; Flags: recursesubdirs
+Source: ".\lib\*"; DestDir: "{app}\lib"; Flags: recursesubdirs
+Source: ".\qtPlugins\*"; DestDir: "{app}\qtPlugins"; Flags: recursesubdirs
 
 [Icons]
 Name: "{group}\Meshroom"; Filename: "{app}\Meshroom.exe"
