@@ -10,3 +10,6 @@ Inno-Installer Template to Build Meshroom Installer
 - Test the Setup
 
 Additional benefit: The resulting AliceVision Meshroom Setup will be compressed from 1.7GB to ~760MB.
+
+Note: The resulting EXE will not be signed, so if that is required for your rollout, you need to use/buy your own signing EV Code Signing Certificate.
+Otherwise the Windows Smart Screen will show "Publisher: Unknown". On some systems, installing untrusted applications may be disabled.
