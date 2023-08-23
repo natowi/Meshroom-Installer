@@ -1,4 +1,4 @@
-# Meshroom-Installer
+# AliceVision Meshroom Installer
 Inno-Installer Template to Build Meshroom Installer
 
 - Install Inno-installer from: https://jrsoftware.org/isdl.php#stable
